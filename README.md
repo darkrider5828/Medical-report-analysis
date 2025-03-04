@@ -61,6 +61,5 @@ MIT License
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements.
 
-## 📧 Contact
-For issues or suggestions, reach out via [your-email@example.com](mailto:your-email@example.com).
+
 
